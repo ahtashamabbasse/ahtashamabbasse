@@ -19,8 +19,7 @@ With a solid background in enterprise-level development, I excel in creating inn
 
 
 ## Let's connect
-
-- ![X](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fahtashamabbasse&style=flat&logo=x&logoColor=%23fff&label=%40ahtashamabbasse&labelColor=%23555&color=%23007ec6&link=https%3A%2F%2Ftwitter.com%2Fahtashamabbasse)
+<a href="https://twitter.com/ahtashamabbasse"><img src="https://img.shields.io/twitter/follow/ahtashamabbasse?label=@ahtashamabbasse&style=social&labelColor=%23555&color=%23007ec6&logo=x" alt="Twitter"></a>
 
 Feel free to reach out if you have any questions or collaboration opportunities. Let's connect and create amazing things together!
 
