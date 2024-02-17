@@ -24,6 +24,7 @@ With a solid background in enterprise-level development, I excel in creating inn
 
 Feel free to reach out if you have any questions or collaboration opportunities. Let's connect and create amazing things together!
 
-<div style="float: right;">
+<div align="right">
     <img src="https://komarev.com/ghpvc/?username=ahtashamabbasse&style=flat" alt="Profile Views">
 </div>
+
