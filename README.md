@@ -4,7 +4,7 @@
 👋 Award winning passionate Principal Software Engineer with 7 years of enterprise experience specializing in crafting robust and scalable solutions using cutting-edge technologies. I thrive in dynamic environments and love tackling complex challenges to deliver exceptional results.
 
 
-## My Techstack Plate:
+## Tech Spectrum Palette:
 
 With a solid background in enterprise-level development, I excel in creating innovative solutions and driving projects to success. My expertise lies in:
 
