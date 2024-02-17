@@ -19,6 +19,7 @@ With a solid background in enterprise-level development, I excel in creating inn
 
 
 ## Let's connect
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahtashamabbas.pk@gmail.com)
 <a href="https://twitter.com/ahtashamabbasse"><img src="https://img.shields.io/twitter/follow/ahtashamabbasse?label=@ahtashamabbasse&style=social&labelColor=%23555&color=%23007ec6&logo=x" alt="Twitter"></a>
 
 Feel free to reach out if you have any questions or collaboration opportunities. Let's connect and create amazing things together!
