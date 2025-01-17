@@ -1,7 +1,7 @@
 # Ahtasham A. - Principal Software Engineer
 
 
-👋 Award winning passionate Principal Software Engineer with 7 years of enterprise experience specializing in crafting robust and scalable solutions using cutting-edge technologies. I thrive in dynamic environments and love tackling complex challenges to deliver exceptional results.
+👋 Award winning passionate Principal Software Engineer with 8+ years of enterprise experience specializing in crafting robust and scalable solutions using cutting-edge technologies. I thrive in dynamic environments and love tackling complex challenges to deliver exceptional results.
 
 
 ## Tech Spectrum Palette:
@@ -13,7 +13,7 @@ With a solid background in enterprise-level development, I excel in creating inn
 - **Backend**: Node.js, Nest.js, Express, Django, REST API, GraphQL, Socket.io
 - **Databases**: PostgreSQL, MongoDB, DynamoDB, Elasticsearch, Redis
 - **Testing**: Jest, React-testing-library, Cypress, Enzyme
-- **AWS Services**: EC2,EB, Serverless, IAM, S3, Cognito, Amplify, AppSync, API Gateway, SES, SNS, SQS
+- **AWS Services**: EC2, EB, Serverless, IAM, S3, Cognito, Amplify, AppSync, API Gateway, SES, SNS, SQS
 - **Others**: Vite, Webpack, CI/CD, Git, OpenAI
 
 
